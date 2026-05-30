@@ -1,7 +1,5 @@
 Pedagogické portfolio <br>
-Magisterské studium <br>
-Bc. Lucie Bryndová (D41758) <br>
-Katedra technické a informační výchovy <br>
+Bakalářské studium <br>
+Šimon Nov (D250423) <br>
+Informační technologie se zaměřením na vzdělávání <br>
 Pedagogická fakulta, UPOL
-
-__Zde budou vaše vlastní údaje__
